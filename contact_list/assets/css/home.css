@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: "Kanit";
+    background-color: #f6e58d;
+}
+
+#page-heading{
+    text-align: center;
+    margin-top: 25px;
+    color: black;
+}
+
+li{
+    background-color: #30336b;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    margin-bottom: -1rem;
+    border-radius: 25px;
+    
+}
+
+p{
+    font-weight: medium;
+    color: white;
+    
+}
+
+.delete-button{
+    background-color: #ff7979;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    border-radius: 25px;
+    
+}
+
+a{
+    color: #30336b;
+    text-decoration: none;
+}
